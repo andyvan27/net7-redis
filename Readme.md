@@ -51,4 +51,4 @@ GET http://localhost:5098/api/fruits/fruit:88f44e36-757c-4e42-99ba-14bc025d0ed2
 ```
 
 ## References
-Big thank to Le Jackson in this video: https://www.youtube.com/watch?v=DgVjEo3OGBI&list=LL&index=9
+Big thank to Les Jackson in this video: https://www.youtube.com/watch?v=DgVjEo3OGBI&list=LL&index=9
