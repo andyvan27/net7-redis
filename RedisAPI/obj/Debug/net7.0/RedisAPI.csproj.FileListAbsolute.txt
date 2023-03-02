@@ -1,0 +1,13 @@
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\RedisAPI.exe
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\RedisAPI.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+D:\Code\Net7Redis\RedisAPI\bin\Debug\net7.0\StackExchange.Redis.dll
